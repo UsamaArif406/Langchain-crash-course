@@ -1,4 +1,3 @@
-pinecone
 pinecone-client
 pypdf
 langchain
