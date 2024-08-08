@@ -1,9 +1,6 @@
-unstructured
-tiktoken
-Pinecone
+pinecone
 pinecone-client
 pypdf
-openai
 langchain
 pandas 
 numpy
