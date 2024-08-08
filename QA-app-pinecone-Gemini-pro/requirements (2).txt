@@ -1,9 +1,11 @@
+streamlit
 pinecone-client
-pypdf
 langchain
-pandas 
+pypdf
+pandas
 numpy
 python-dotenv
-langchain_pinecone
-langchain_community
+langchain-pinecone
+langchain-community
 langchain-google-genai
+nest-asyncio
