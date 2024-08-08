@@ -1,6 +1,6 @@
 unstructured
 tiktoken
-pinecone
+Pinecone
 pinecone-client
 pypdf
 openai
